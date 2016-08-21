@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3BCBCD6B40FF466A00EFAF1C4692D3B9F59DD3F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3BCBCD6B40FF466A00EFAF1C4692D3B9F59DD3F2" : 0,
+    "B5C90F0845E3338C0E33E8C247756517CD9C3169" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EFDF0C2F-B075-4AD9-9D57-BE56405769CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3BCBCD6B40FF466A00EFAF1C4692D3B9F59DD3F2" : "JenkinsCrash\/",
+    "B5C90F0845E3338C0E33E8C247756517CD9C3169" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JenkinsCrash",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JenkinsCrash\/JenkinsCrash.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ForIos\/JenkinsCrash.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BCBCD6B40FF466A00EFAF1C4692D3B9F59DD3F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ForIos\/GitProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5C90F0845E3338C0E33E8C247756517CD9C3169"
+    }
+  ]
+}
